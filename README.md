@@ -12,7 +12,7 @@
    https://www.youtube.com/channel/UCxLf28HVQ3SHVwqU0w_RtJw
    
  #  Images In Readmes
-  ![Screenshot from 2019-09-06 18-29-24]https://raw.githubusercontent.com/lexos-hack/brute-force-insta/main/Screenshot%20from%202019-09-06%2018-29-24.PNG
+  !https://raw.githubusercontent.com/lexos-hack/brute-force-insta/main/
    
    
    #إخلاء المسؤولية القانونية
