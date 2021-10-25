@@ -6,7 +6,7 @@
    
    معرفي @cyber_0x0
    
-   @skar44
+
    
   او يمكنك متابعة الدروس على قناتنا
    https://www.youtube.com/channel/UCxLf28HVQ3SHVwqU0w_RtJw
@@ -52,10 +52,10 @@
    
    #chmod +x install.sh
    
-   #chmod +x skar.sh
+   #chmod +x lexos.sh
    
    #sudo bash install.sh
    
-   #sudo bash skar.sh
+   #sudo bash lexos.sh
    
    #انا لااتحمل مسؤليتك لسوء استخدامك لهذه الاداة 
