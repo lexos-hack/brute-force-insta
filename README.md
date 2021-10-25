@@ -39,6 +39,7 @@
    
  
    #git clone https://github.com/lexos-hack/brute-force-insta.git
+   
    #sudo apt-get install tor
    
    #sudo apt-get install all
