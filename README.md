@@ -11,9 +11,6 @@
   او يمكنك متابعة الدروس على قناتنا
    https://www.youtube.com/channel/UCxLf28HVQ3SHVwqU0w_RtJw
    
-   #  Images In Readmes
-   
-  ![Screenshot from 2019-09-06 18-29-24](https://user-images.githubusercontent.com/54996997/64490799-cc559480-d22e-11e9-99a1-ce863282d88b.png)
 
 
    
@@ -41,7 +38,7 @@
    
    
  
- 
+   #git clone https://github.com/lexos-hack/brute-force-insta.git
    #sudo apt-get install tor
    
    #sudo apt-get install all
